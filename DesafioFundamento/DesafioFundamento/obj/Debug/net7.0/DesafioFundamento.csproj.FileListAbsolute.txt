@@ -1,0 +1,14 @@
+C:\Users\mathe\develop\trilha-net-fundamentos-desafio-DIO\DesafioFundamento\DesafioFundamento\bin\Debug\net7.0\DesafioFundamento.exe
+C:\Users\mathe\develop\trilha-net-fundamentos-desafio-DIO\DesafioFundamento\DesafioFundamento\bin\Debug\net7.0\DesafioFundamento.deps.json
+C:\Users\mathe\develop\trilha-net-fundamentos-desafio-DIO\DesafioFundamento\DesafioFundamento\bin\Debug\net7.0\DesafioFundamento.runtimeconfig.json
+C:\Users\mathe\develop\trilha-net-fundamentos-desafio-DIO\DesafioFundamento\DesafioFundamento\bin\Debug\net7.0\DesafioFundamento.dll
+C:\Users\mathe\develop\trilha-net-fundamentos-desafio-DIO\DesafioFundamento\DesafioFundamento\bin\Debug\net7.0\DesafioFundamento.pdb
+C:\Users\mathe\develop\trilha-net-fundamentos-desafio-DIO\DesafioFundamento\DesafioFundamento\obj\Debug\net7.0\DesafioFundamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\develop\trilha-net-fundamentos-desafio-DIO\DesafioFundamento\DesafioFundamento\obj\Debug\net7.0\DesafioFundamento.AssemblyInfoInputs.cache
+C:\Users\mathe\develop\trilha-net-fundamentos-desafio-DIO\DesafioFundamento\DesafioFundamento\obj\Debug\net7.0\DesafioFundamento.AssemblyInfo.cs
+C:\Users\mathe\develop\trilha-net-fundamentos-desafio-DIO\DesafioFundamento\DesafioFundamento\obj\Debug\net7.0\DesafioFundamento.csproj.CoreCompileInputs.cache
+C:\Users\mathe\develop\trilha-net-fundamentos-desafio-DIO\DesafioFundamento\DesafioFundamento\obj\Debug\net7.0\DesafioFundamento.dll
+C:\Users\mathe\develop\trilha-net-fundamentos-desafio-DIO\DesafioFundamento\DesafioFundamento\obj\Debug\net7.0\refint\DesafioFundamento.dll
+C:\Users\mathe\develop\trilha-net-fundamentos-desafio-DIO\DesafioFundamento\DesafioFundamento\obj\Debug\net7.0\DesafioFundamento.pdb
+C:\Users\mathe\develop\trilha-net-fundamentos-desafio-DIO\DesafioFundamento\DesafioFundamento\obj\Debug\net7.0\DesafioFundamento.genruntimeconfig.cache
+C:\Users\mathe\develop\trilha-net-fundamentos-desafio-DIO\DesafioFundamento\DesafioFundamento\obj\Debug\net7.0\ref\DesafioFundamento.dll
